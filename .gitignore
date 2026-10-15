@@ -1,0 +1,40 @@
+```gitignore
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Distribution and build artifacts
+build/
+dist/
+*.egg-info/
+
+# Test and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+```
