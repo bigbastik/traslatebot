@@ -1,0 +1,4 @@
+```text
+# TraslateBot has no third-party Python dependencies.
+# Uses only the Python standard library.
+```
